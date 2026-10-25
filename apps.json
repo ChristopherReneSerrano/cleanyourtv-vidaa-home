@@ -1,0 +1,30 @@
+{
+  "apps": [
+    {
+      "appId": "2243",
+      "name": "Art Gallery",
+      "url": "https://tvmodules-vidaa.vidaahub.com/vidaa-art/V1.0/index-vidaa-art.html",
+      "icon": "https://img.vidaahub.com/vidaa/2025/12/202512030817413563.jpg"
+    },
+    {
+      "appId": "2378",
+      "name": "HBO Max",
+      "url": "https://vidaa.play.max.com/",
+      "icon": "https://img.vidaahub.com/vidaa/2025/7/202507091016437937.png"
+    },
+    {
+      "appId": "2372",
+      "name": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/tetsuo/hisense-vidaa/",
+      "icon": "https://img.vidaahub.com/vidaa/2024/9/202409041444508945.png"
+    }
+  ],
+  "dock": [
+    "2243",
+    "2378",
+    "2372"
+  ],
+  "sources": [],
+  "greeting_name": "",
+  "clock_24h": false
+}
